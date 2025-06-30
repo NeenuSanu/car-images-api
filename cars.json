@@ -147,4 +147,8 @@
     "name": "34",
     "url": "https://raw.githubusercontent.com/NeenuSanu/car-images-api/refs/heads/main/images/34.png"
   }
+  {
+    "name": "logo",
+    "url": "https://raw.githubusercontent.com/NeenuSanu/car-images-api/refs/heads/main/images/vroom_logo.png"
+  }
 ]
